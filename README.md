@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ali 👋
+# Hi, I'm Ali ^_^
 
 ### Software Engineer · Full-Stack & Backend Developer
 
