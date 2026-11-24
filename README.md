@@ -57,13 +57,3 @@ My experience also extends to computer vision, machine learning, data pipelines,
 <sub>Computer Vision · YOLO · RAG · Model Evaluation · Pytest</sub>
 
 </div>
-
----
-
-<div align="center">
-
-**Let's connect and build something useful.**
-
-<a href="mailto:ali.odeh.pss@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/ali-odeh-539495364/">LinkedIn</a>
-
-</div>
